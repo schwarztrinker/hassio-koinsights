@@ -1,6 +1,6 @@
 # KoInsight Home Assistant Add-ons
 
-[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A//github.com/schwarztrinker/hassio-koinsights)
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A//github.com/schwarztrinker/hassio-koinsight)
 
 ## About
 
@@ -25,7 +25,7 @@ Click the badge above or manually add this repository to your Home Assistant add
 1. Go to **Supervisor** → **Add-on Store**
 2. Click the **⋮** menu in the top right
 3. Select **Repositories**
-4. Add repository URL: `https://github.com/schwarztrinker/hassio-koinsights`
+4. Add repository URL: `https://github.com/schwarztrinker/hassio-koinsight`
 5. Close the dialog and refresh the page
 6. Find "KoInsight" in the add-on store and install it
 
@@ -42,7 +42,7 @@ Click the badge above or manually add this repository to your Home Assistant add
 
 - [KoInsight GitHub Repository](https://github.com/GeorgeSG/KoInsight)
 - [Home Assistant Community Forum](https://community.home-assistant.io/)
-- [Report Issues](https://github.com/schwarztrinker/hassio-koinsights/issues)
+- [Report Issues](https://github.com/schwarztrinker/hassio-koinsight/issues)
 
 ## Contributing
 
